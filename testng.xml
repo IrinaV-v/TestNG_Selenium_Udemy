@@ -1,0 +1,8 @@
+<suite name = "Suite">
+    <test name = "Test" parallel="methods">
+        <classes>
+        <class name ="localTests.isNumeric" >
+        </class>
+        </classes>
+    </test>
+</suite>
